@@ -10,6 +10,8 @@
 		<members>AppleWatch</members>
 		<members>HelloWorld</members>
 		<members>WarrantySummary</members>
+		<members>LeadingCompetitor</members>
+		<members>CheckSecretInformation</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>36.0</version>
