@@ -4,7 +4,7 @@ trigger WarrantySummary on Case (before insert) {
 
 	for (Case myCase : Trigger.new) {
 		// Set up variables to use in the summary field
-		String purchaseDate         = myCase.Product_Purchase_Date__c.format();
+		String purchaseDate         = myCase.Product_Purchase_Date__c.format() || null;
 		String createdDate          = DateTime.now().format();
 		Integer warrantyDays        = myCase.Product_Total_Warranty_Days__c.intValue();
 		Decimal warrantyPercentage  = (100 * (myCase.Product_Purchase_Date__c.daysBetween(Date.today()) 

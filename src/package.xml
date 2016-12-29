@@ -4,6 +4,8 @@
 		<members>HelloWorldTest</members>
 		<members>AppleWatchTest</members>
 		<members>WarrantySummaryTest</members>
+		<members>LeadingCompetitorTest</members>
+		<members>CheckSecretInformationTest</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
