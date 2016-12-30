@@ -7,6 +7,8 @@
 		<members>LeadingCompetitorTest</members>
 		<members>CheckSecretInformationTest</members>
 		<members>LeadDisqualificationTest</members>
+		<members>PicklistCounterTest</members>
+		<members>MultiTaskCreatorTest</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
@@ -17,6 +19,7 @@
 		<members>CheckSecretInformation</members>
 		<members>LeadDisqualification</members>
 		<members>PicklistCounter</members>
+		<members>MultiTaskCreator</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>36.0</version>
