@@ -6,6 +6,7 @@
 		<members>WarrantySummaryTest</members>
 		<members>LeadingCompetitorTest</members>
 		<members>CheckSecretInformationTest</members>
+		<members>LeadDisqualificationTest</members>
 		<name>ApexClass</name>
 	</types>
 	<types>
@@ -14,6 +15,8 @@
 		<members>WarrantySummary</members>
 		<members>LeadingCompetitor</members>
 		<members>CheckSecretInformation</members>
+		<members>LeadDisqualification</members>
+		<members>PicklistCounter</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>36.0</version>
