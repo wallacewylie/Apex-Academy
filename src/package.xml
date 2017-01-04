@@ -20,6 +20,7 @@
 		<members>LeadDisqualification</members>
 		<members>PicklistCounter</members>
 		<members>MultiTaskCreator</members>
+		<members>DedupeLead</members>
 		<name>ApexTrigger</name>
 	</types>
 	<version>36.0</version>
